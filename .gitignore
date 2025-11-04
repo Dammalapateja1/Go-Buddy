@@ -24,4 +24,10 @@ dist-ssr
 *.sw?
 
 
+.envnode_modules/
 .env
+.DS_Store
+.vscode/
+.idea/
+dist/
+build/
